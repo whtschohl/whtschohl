@@ -1,9 +1,9 @@
-## Hello World 👋, I'm Hans Tschohl
+# Hello World 👋, I'm Hans Tschohl
 
 - 🔭 I’m currently working on an IoT device to keep my plants alive.
 - 🌱 I’m currently learning advanced C programming skills with the AlphaTech Advanced C programming masterclass course on udemy
 
-# 💫 About Me:
+##s 💫 About Me:
 I'm a mechatronics engineer with 3 years’ experience developing smart devices for home automation. I’ve helped bring products like motorized windows and automated sliding doors to life. I love tackling complex challenges and building tech that makes everyday life easier for everyday people. At my core, I believe in doing hard things, giving more than I take, and always staying curious. I'm looking for opportunities where I can keep innovating and add real value to a forward-thinking team.
 
 ## 🌐 Socials:

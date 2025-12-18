@@ -1,6 +1,6 @@
 # Hello World 👋, I'm Hans Tschohl
 
-- 🔭 I’m currently working on an IoT device to keep my plants alive.
+- 🔭 I’m currently working on leveling up my Control Engineering skills.
 - 🌱 I’m currently learning advanced C programming skills with the AlphaTech Advanced C programming masterclass course on udemy
 
 ## 💫 About Me:
